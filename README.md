@@ -183,9 +183,9 @@ Stickers:
 
 #### 13
 * https://www.theverge.com/2013/7/31/4576114/nsa-director-heckled-by-hackers-at-black-hat-2013
-* https://www.npr.org/2022/09/13/1122671582/twitter-whistleblower-mudge-senate-hearing
 * https://www.npr.org/2022/09/12/1122441128/frances-haugen-facebook-meta-twitter-whistleblower-mudge
 * https://www.torproject.org/
+* https://phrack.org/issues/7/3c
 
 #### 15
 * https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act
@@ -207,6 +207,7 @@ Stickers:
 #### 25
 * https://www.yahoo.com/lifestyle/donald-trump-saying-everythings-computer-163816498.html
 * https://www.techpolicy.press/doge-understands-something-the-us-policy-establishment-does-not-technology-is-the-spinal-cord-of-government/
+* https://pluralistic.net/2025/07/31/unsatisfying-answers/#systemic-problemsc
 
 #### 26
 * https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
